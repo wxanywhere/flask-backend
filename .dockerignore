@@ -1,0 +1,8 @@
+/.vscode/*
+.env
+.dockerignore
+Dockerfile
+Dockerfile-prod
+.env.example
+docker.env
+docker.env.example
